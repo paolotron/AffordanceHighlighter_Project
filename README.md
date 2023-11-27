@@ -1,10 +1,4 @@
-# 3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions [CVPR 2023]
-
-*[Dale Decatur](https://ddecatur.github.io/), [Itai Lang](https://itailang.github.io/), [Rana Hanocka](https://people.cs.uchicago.edu/~ranahanocka/)*
-
-University of Chicago
-
-Abstract: *We present 3D Highlighter, a technique for localizing semantic regions on a mesh using text as input. A key feature of our system is the ability to interpret “out-of-domain” localizations. Our system demonstrates the ability to reason about where to place non-obviously related concepts on an input 3D shape, such as adding clothing to a bare 3D animal model. Our method contextualizes the text description using a neural field and colors the corresponding region of the shape using a probability-weighted blend. Our neural optimization is guided by a pre-trained CLIP encoder, which bypasses the need for any 3D datasets or 3D annotations. Thus, 3D Highlighter is highly flexible, general, and capable of producing localizations on a myriad of input shapes.*
+# Affordance Highlighting project
 
 
 <!-- ### [[Project Page](https://threedle.github.io/3DHighlighter/)] [[ArXiv](https://arxiv.org/abs/2212.11263)] -->
